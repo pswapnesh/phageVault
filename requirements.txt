@@ -1,0 +1,8 @@
+duckdb>=0.10
+biopython>=1.81
+pyrodigal>=3.0
+pandas>=2.0
+tqdm>=4.65
+
+# test suite (tests/)
+pytest>=7.0

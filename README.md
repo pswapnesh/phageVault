@@ -6,7 +6,7 @@ multi-FASTA (`.fna`) files.
 ## Install
 
 ```bash
-pip install git+https://github.com/<user>/PhageVault.git
+pip install git+https://github.com/pswapnesh/phageVault.git
 ```
 
 (or, from a local clone: `pip install -e .`)
